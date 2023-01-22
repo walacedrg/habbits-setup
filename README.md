@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Habits é um projeto feito para rastrear os hábitos.
 
-- [Visite o Projeto online] (https://walacedrg.github.io/habbits-setup/)
+-[Visite o Projeto online](https://walacedrg.github.io/habbits-setup/)
 
 ## 🔖 Layout
 
