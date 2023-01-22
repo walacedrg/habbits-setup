@@ -33,7 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Devs é um projeto feito para rastrear os hábitos.
+O Projeto Habits é um projeto feito para rastrear os hábitos.
+
+- [Visite o Projeto online] (https://walacedrg.github.io/habbits-setup/)
 
 ## 🔖 Layout
 
